@@ -19,7 +19,7 @@ The following builds RebbleOS on Debian Stretch:
 The Pebble SDK is a prerequisite for portions of RebbleOS. The
 SDK is available [here](https://developer.rebble.io/developer.pebble.com/sdk/download/index.html).
 As an example, on Debian, one may create an installation
-directory for the SDK using the following.
+directory for the SDK using the following. (Use Python 2)
 
 ```sh
     mkdir ~/pebble-dev/
